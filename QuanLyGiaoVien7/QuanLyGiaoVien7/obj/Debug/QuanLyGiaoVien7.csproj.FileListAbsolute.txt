@@ -1,0 +1,12 @@
+F:\HOCTAP@\hoctapky1nam3\baitapvisual\QuanLyGiaoVien7\QuanLyGiaoVien7\bin\Debug\QuanLyGiaoVien7.exe.config
+F:\HOCTAP@\hoctapky1nam3\baitapvisual\QuanLyGiaoVien7\QuanLyGiaoVien7\bin\Debug\QuanLyGiaoVien7.exe
+F:\HOCTAP@\hoctapky1nam3\baitapvisual\QuanLyGiaoVien7\QuanLyGiaoVien7\bin\Debug\QuanLyGiaoVien7.pdb
+F:\HOCTAP@\hoctapky1nam3\baitapvisual\QuanLyGiaoVien7\QuanLyGiaoVien7\obj\Debug\QuanLyGiaoVien7.Properties.Resources.resources
+F:\HOCTAP@\hoctapky1nam3\baitapvisual\QuanLyGiaoVien7\QuanLyGiaoVien7\obj\Debug\QuanLyGiaoVien7.csproj.GenerateResource.Cache
+F:\HOCTAP@\hoctapky1nam3\baitapvisual\QuanLyGiaoVien7\QuanLyGiaoVien7\obj\Debug\QuanLyGiaoVien7.exe
+F:\HOCTAP@\hoctapky1nam3\baitapvisual\QuanLyGiaoVien7\QuanLyGiaoVien7\obj\Debug\QuanLyGiaoVien7.pdb
+F:\HOCTAP@\hoctapky1nam3\baitapvisual\QuanLyGiaoVien7\QuanLyGiaoVien7\obj\Debug\QuanLyGiaoVien7.csprojResolveAssemblyReference.cache
+F:\HOCTAP@\hoctapky1nam3\baitapvisual\QuanLyGiaoVien7\QuanLyGiaoVien7\obj\Debug\QuanLyGiaoVien7.frmQuanLyHoatDongGiaoVien7.resources
+F:\HOCTAP@\hoctapky1nam3\QuanLyGiaoVien7\QuanLyGiaoVien7\bin\Debug\QuanLyGiaoVien7.exe.config
+F:\HOCTAP@\hoctapky1nam3\QuanLyGiaoVien7\QuanLyGiaoVien7\obj\Debug\QuanLyGiaoVien7.exe
+F:\HOCTAP@\hoctapky1nam3\QuanLyGiaoVien7\QuanLyGiaoVien7\obj\Debug\QuanLyGiaoVien7.pdb
